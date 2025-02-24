@@ -1,10 +1,9 @@
 "use client"
-
 import { useState } from "react"
 import Layout from "../components/Layout"
 import Footer from "../components/Footer"
 
-export default function Contact() {
+export default function Contactus() {
   const [formData, setFormData] = useState({
     name: "",
     email: "",
