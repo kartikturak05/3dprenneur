@@ -4,7 +4,6 @@ import Manufacturing from "./pages/Manufacturing";
 import RealEstate from "./pages/RealEstate";
 import Contact from "./pages/Contact";
 import Architects from "./pages/Architects";
-import Footer from "./components/Footer";
 
 export default function App() {
   return (
