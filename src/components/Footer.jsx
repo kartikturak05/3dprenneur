@@ -8,7 +8,7 @@ export default function Footer() {
         <div className="flex flex-col md:flex-row justify-between items-center">
           {/* Left Section - Company Name */}
           <div className="mb-6 md:mb-0 text-center md:text-left">
-            <h2 className="text-2xl font-bold">3dprenneur</h2>
+            <h2 className="text-2xl font-bold">3D Visionary</h2>
             <p className="text-gray-400 mt-2">Innovating the future, one step at a time.</p>
           </div>
 
@@ -39,7 +39,7 @@ export default function Footer() {
 
         {/* Bottom Section */}
         <div className="text-center text-gray-500 text-sm mt-6">
-          © {new Date().getFullYear()} 3dprenneur. All Rights Reserved.
+          © {new Date().getFullYear()} 3D Visionary. All Rights Reserved.
         </div>
       </div>
     </footer>

@@ -36,7 +36,7 @@ export default function Contactus() {
             </p>
             <div className="space-y-2">
               <p>
-                <strong>Address:</strong> 123 Main St, City, Country
+                <strong>Address:</strong> 2nd Floor B 208 Yojna Vihar Delhi 110092
               </p>
               <p>
                 <strong>Phone:</strong> (123) 456-7890

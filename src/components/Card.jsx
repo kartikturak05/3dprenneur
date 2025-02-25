@@ -33,9 +33,12 @@ export default function Card({ image, name, position, description, socialLinks, 
             )}
           </div>
         )}
-        <a href={viewMoreLink} className="text-blue-600  pt-2 pb-2 pl-3 pr-3 bg-blue-500 text-white rounded-md cursor-pointer">
+        <div className="flex items-end justify-end">
+        <a href={viewMoreLink} className=" pt-2 pb-2 pl-3 pr-3 bg-blue-500 text-white rounded-md cursor-pointer">
           View More
         </a>
+        </div>
+       
       </div>
     </div>
   );
